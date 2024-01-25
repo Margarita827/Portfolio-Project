@@ -26,7 +26,18 @@ footer {
 .email-icon {
     color: aqua;
 }
+
+
+
+h3 {
+    text-align: center;
+}
+
+.homepage {
+    text-align: center;
+}
 /* font-family: 'Kanit', sans-serif;
 font-family: 'Noto Sans', sans-serif;
 font-family: 'Poppins', sans-serif;
 font-family: 'Roboto Slab', serif;
+
