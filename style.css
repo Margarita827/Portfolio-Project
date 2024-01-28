@@ -101,14 +101,17 @@ footer {
 
 .facebook-icon {
     color: blue;
+    font-size: 30px;
 }
 
 .instagram-icon {
     color: rgb(226, 43, 195);
+    font-size: 30px;
 }
 
 .email-icon {
     color: aqua;
+    font-size: 30px;
 }
 
 
@@ -118,8 +121,5 @@ footer {
 .homepage {
     text-align: center;
 }
-/* font-family: 'Kanit', sans-serif;
-font-family: 'Noto Sans', sans-serif;
-font-family: 'Poppins', sans-serif;
-font-family: 'Roboto Slab', serif;
+
 
